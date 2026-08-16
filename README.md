@@ -2,7 +2,7 @@
 
 I sell for a living. Doha based, ten years of B2B and government work across the Gulf. In June 2025 I started teaching myself to build with AI, no CS background, and shipped 30 apps in 30 days to learn. Most of what's here came out of that run, and I kept going after it ended.
 
-Everything below was built end to end by me, with Claude as my pair.
+I built everything here end to end, with Claude as my pair.
 
 ## Highlights
 
@@ -34,5 +34,3 @@ Everything below was built end to end by me, with Claude as my pair.
 ## How I work
 
 Sales taught me to find the real problem before building anything. The apps taught me the rest: RAG pipelines, multi-agent orchestration, evals before quality claims, keys server-side, rate limits on anything that costs money. I write TypeScript and Python, deploy on Vercel, and store data in Postgres more often than not.
-
-Reach me on LinkedIn: [@moizbuilds](https://www.linkedin.com/in/moizbuilds)
